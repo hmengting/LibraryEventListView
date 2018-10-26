@@ -6,5 +6,5 @@ Demo
 
 ![][image1]
 
-
-[image1]: ./image/screenshot.png
+[//]: # (Image References)
+[image1]: ./images/screenshot.png
