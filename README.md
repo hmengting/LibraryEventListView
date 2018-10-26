@@ -1,0 +1,3 @@
+# Librarical
+
+Library event manager
